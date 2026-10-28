@@ -2,7 +2,7 @@
 
 Static personal website for Cong Liu at UC Riverside.
 
-Website: https://cong2mars.github.io/
+Website: https://congucr.github.io/
 
 ## Files
 
